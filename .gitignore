@@ -1,0 +1,7 @@
+out/
+*.ngc
+*.ngp
+*.ngpc
+*.pst
+__pycache__/
+*.tmp
